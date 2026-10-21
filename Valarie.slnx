@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Valarie/Valarie.vcxproj" Id="638844b8-3b95-4c43-ad9d-5255eb4d676b" />
+</Solution>
